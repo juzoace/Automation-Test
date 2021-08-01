@@ -1,0 +1,16 @@
+
+Question`   Data          Value
+2b          search term   best baby sunscreen
+2c`         First product Baby Sunscreen Natural Sunblock from Thinkbaby, Safe, Water Resistant Sunscreen - SPF 50+ (6 ounce)
+2f          item 1 price  $14.95          
+            item 2 price  $16.79
+            total item    3
+            total price   $48.53
+2g          p1 name       Baby sunscreen Natural Sunblock
+            p1 price      $16.79
+            p1 qty        2
+            p2 name       Two Peas Organics
+            p2 price      $14.95
+            p2 qty        1
+            total item    3
+            total price   $104.63   
